@@ -1,0 +1,73 @@
+--Sumatra
+
+function SumatratoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoLattice()
+speedwalk("" ,false, 0.5)
+end
+
+function SumatratoLink()
+speedwalk("" ,false, 0.5)
+end
