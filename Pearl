@@ -1,0 +1,73 @@
+--Pearl
+
+function PearltoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoLattice()
+speedwalk("" ,false, 0.5)
+end
+
+function PearltoLink()
+speedwalk("" ,false, 0.5)
+end
