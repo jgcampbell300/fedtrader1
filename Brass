@@ -1,0 +1,73 @@
+--Brass
+
+function BrasstoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoLattice()
+speedwalk("" ,false, 0.5)
+end
+
+function BrasstoLink()
+speedwalk("" ,false, 0.5)
+end
