@@ -1,0 +1,73 @@
+--Mars
+
+function MarstoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoLattice()
+speedwalk("" ,false, 0.5)
+end
+
+function MarstoLink()
+speedwalk("" ,false, 0.5)
+end
