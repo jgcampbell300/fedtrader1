@@ -1,0 +1,73 @@
+--Moon
+
+function MoontoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoLattice()
+speedwalk("" ,false, 0.5)
+end
+
+function MoontoLink()
+speedwalk("" ,false, 0.5)
+end
