@@ -1,0 +1,73 @@
+--Silk
+
+function SilktoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoLattice()
+speedwalk("" ,false, 0.5)
+end
+
+function SilktoLink()
+speedwalk("" ,false, 0.5)
+end
