@@ -1,0 +1,74 @@
+--Lattice
+
+function LatticetoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function LatticetoLink()
+speedwalk("" ,false, 0.5)
+end
+
