@@ -1,0 +1,73 @@
+--Rheat
+
+function RheatoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoLattice()
+speedwalk("" ,false, 0.5)
+end
+
+function RheatoLink()
+speedwalk("" ,false, 0.5)
+end
