@@ -1,0 +1,73 @@
+--Link
+
+function LinktoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function LinktoLattice()
+speedwalk("" ,false, 0.5)
+end
