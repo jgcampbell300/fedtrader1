@@ -1,0 +1,73 @@
+--Saturn to 
+
+function SaturntoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoLattice()
+speedwalk("" ,false, 0.5)
+end
+
+function SaturntoLink()
+speedwalk("" ,false, 0.5)
+end
