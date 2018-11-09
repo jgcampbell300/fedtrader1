@@ -1,0 +1,73 @@
+--Castillo
+
+function CastillotoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoLattice()
+speedwalk("" ,false, 0.5)
+end
+
+function CastillotoLink()
+speedwalk("" ,false, 0.5)
+end
