@@ -1,0 +1,73 @@
+--Phobos
+
+function PhobostoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoLattice()
+speedwalk("" ,false, 0.5)
+end
+
+function PhobostoLink()
+speedwalk("" ,false, 0.5)
+end
