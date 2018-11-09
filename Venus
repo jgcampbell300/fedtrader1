@@ -1,0 +1,73 @@
+--Venus
+
+function VenustoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoLattice()
+speedwalk("" ,false, 0.5)
+end
+
+function VenustoLink()
+speedwalk("" ,false, 0.5)
+end
