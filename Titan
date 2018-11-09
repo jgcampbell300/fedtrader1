@@ -1,0 +1,73 @@
+--Titan to
+
+function TitantoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoLattice()
+speedwalk("" ,false, 0.5)
+end
+
+function TitantoLink()
+speedwalk("" ,false, 0.5)
+end
