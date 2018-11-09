@@ -1,0 +1,73 @@
+--Paradise
+
+function ParadisetoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoLattice()
+speedwalk("" ,false, 0.5)
+end
+
+function ParadisetoLink()
+speedwalk("" ,false, 0.5)
+end
