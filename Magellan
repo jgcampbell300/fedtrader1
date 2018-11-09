@@ -1,0 +1,73 @@
+--Magellan
+
+function MagellantoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoMercury()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoLattice()
+speedwalk("" ,false, 0.5)
+end
+
+function MagellantoLink()
+speedwalk("" ,false, 0.5)
+end
