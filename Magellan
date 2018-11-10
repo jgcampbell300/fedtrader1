@@ -1,73 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<ScriptPackage>
+		<Script isActive="no" isFolder="no">
+			<name>tradesol</name>
+			<packageName></packageName>
+			<script>
+-------------------------------------------------
+--         Put your Lua functions here.        --
+--                                             --
+-- Note that you can also use external Scripts --
+-------------------------------------------------
+
 --Magellan
 
 function MagellantoRheat()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw,nw,w,w" ,false, 0.5)
 end
 
 function MagellantoSaturn()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw,nw,nw" ,false, 0.5)
 end
 
 function MagellantoTitan()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw,nw,nw" ,false, 0.5)
 end
 
 function MagellantoCastillo()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,n,n" ,false, 0.5)
 end
 
 function MagellantoPhobos()
-speedwalk("" ,false, 0.5)
+speedwalk("n,n,n" ,false, 0.5)
 end
 
 function MagellantoMars()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,n" ,false, 0.5)
 end
 
 function MagellantoSumatra()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,w" ,false, 0.5)
 end
 
 function MagellantoEarth()
-speedwalk("" ,false, 0.5)
+speedwalk("ne" ,false, 0.5)
 end
 
 function MagellantoMoon()
-speedwalk("" ,false, 0.5)
+speedwalk("e,e" ,false, 0.5)
 end
 
 function MagellantoVenus()
-speedwalk("" ,false, 0.5)
+speedwalk("sw,w" ,false, 0.5)
 end
 
 function MagellantoParadise()
-speedwalk("" ,false, 0.5)
+speedwalk("sw,sw,w" ,false, 0.5)
 end
 
 function MagellantoMercury()
-speedwalk("" ,false, 0.5)
+speedwalk("se,s" ,false, 0.5)
 end
 
 function MagellantoPearl()
-speedwalk("" ,false, 0.5)
+speedwalk("se,se,s,s" ,false, 0.5)
 end
 
 function MagellantoBrass()
-speedwalk("" ,false, 0.5)
+speedwalk("w,nw,nw,nw,nw,in,nw,w" ,false, 0.5)
 end
 
 function MagellantoSilk()
-speedwalk("" ,false, 0.5)
+speedwalk("w,nw,nw,nw,nw,in,ne,n" ,false, 0.5)
 end
 
 function MagellantoDoris()
-speedwalk("" ,false, 0.5)
+speedwalk("w,nw,nw,nw,nw,in,sw" ,false, 0.5)
 end
 
 function MagellantoLattice()
-speedwalk("" ,false, 0.5)
+speedwalk("w,nw,nw,nw,nw,in,se,s,se" ,false, 0.5)
 end
 
 function MagellantoLink()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw,nw,nw,w,w" ,false, 0.5)
 end
+
+
+
+</script>
+			<eventHandlerList />
+		</Script>
+	</ScriptPackage>
+</MudletPackage>

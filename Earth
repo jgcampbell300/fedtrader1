@@ -1,31 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<ScriptPackage>
+		<Script isActive="no" isFolder="no">
+			<name>tradesol</name>
+			<packageName></packageName>
+			<script>
+-------------------------------------------------
+--         Put your Lua functions here.        --
+--                                             --
+-- Note that you can also use external Scripts --
+-------------------------------------------------
+
 --Earth
 
 function EarthtoRheat()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw,w,w,w,w" ,false, 0.5)
 end
 
 function EarthtoSaturn()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw,nw,w,w" ,false, 0.5)
 end
 
 function EarthtoTitan()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw,nw,w" ,false, 0.5)
 end
 
 function EarthtoCastillo()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw" ,false, 0.5)
 end
 
 function EarthtoPhobos()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,n" ,false, 0.5)
 end
 
 function EarthtoMars()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,w" ,false, 0.5)
 end
 
 function EarthtoSumatra()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,w,w,w" ,false, 0.5)
 end
 
 function EarthtoMagellan()
@@ -33,41 +47,49 @@ speedwalk("" ,false, 0.5)
 end
 
 function EarthtoMoon()
-speedwalk("" ,false, 0.5)
+speedwalk("se" ,false, 0.5)
 end
 
 function EarthtoVenus()
-speedwalk("" ,false, 0.5)
+speedwalk("sw,sw,w" ,false, 0.5)
 end
 
 function EarthtoParadise()
-speedwalk("" ,false, 0.5)
+speedwalk("sw,sw,sw,w" ,false, 0.5)
 end
 
 function EarthtoMercury()
-speedwalk("" ,false, 0.5)
+speedwalk("s,s,s" ,false, 0.5)
 end
 
 function EarthtoPearl()
-speedwalk("" ,false, 0.5)
+speedwalk("se,s,s,s,s" ,false, 0.5)
 end
 
 function EarthtoBrass()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,w,w,w,in,nw,w" ,false, 0.5)
 end
 
 function EarthtoSilk()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,w,w,w,in,ne,n" ,false, 0.5)
 end
 
 function EarthtoDoris()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,w,w,w,in,sw" ,false, 0.5)
 end
 
 function EarthtoLattice()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,w,w,w,in,se,s,se" ,false, 0.5)
 end
 
 function EarthtoLink()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw,nw,w,w,w,w" ,false, 0.5)
 end
+
+
+
+</script>
+			<eventHandlerList />
+		</Script>
+	</ScriptPackage>
+</MudletPackage>

@@ -1,73 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<ScriptPackage>
+		<Script isActive="no" isFolder="no">
+			<name>tradesol</name>
+			<packageName></packageName>
+			<script>
+-------------------------------------------------
+--         Put your Lua functions here.        --
+--                                             --
+-- Note that you can also use external Scripts --
+-------------------------------------------------
+
 --Doris
 
 function DoristoRheat()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,out,nw,w" ,false, 0.5)
 end
 
 function DoristoSaturn()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,out,n,nw" ,false, 0.5)
 end
 
 function DoristoTitan()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,out,n,n" ,false, 0.5)
 end
 
 function DoristoCastillo()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,out,ne,e" ,false, 0.5)
 end
 
 function DoristoPhobos()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,out,e,e,e,e" ,false, 0.5)
 end
 
 function DoristoMars()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,out,se,e,e" ,false, 0.5)
 end
 
 function DoristoSumatra()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,out,se" ,false, 0.5)
 end
 
 function DoristoEarth()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,out,se,se,e,e,e" ,false, 0.5)
 end
 
 function DoristoMagellan()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,out,se,se,se,e" ,false, 0.5)
 end
 
 function DoristoMoon()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,out,se,se,se,e,e,e" ,false, 0.5)
 end
 
 function DoristoVenus()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,out,se,se,s,s" ,false, 0.5)
 end
 
 function DoristoParadise()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,out,se,s,s,s,s" ,false, 0.5)
 end
 
 function DoristoMercury()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,out,se,se,se,se,se" ,false, 0.5)
 end
 
 function DoristoPearl()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,out,se,se,se,se,se,se,s" ,false, 0.5)
 end
 
 function DoristoBrass()
-speedwalk("" ,false, 0.5)
+speedwalk("n,n,w" ,false, 0.5)
 end
 
 function DoristoSilk()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,ne,n" ,false, 0.5)
 end
 
 function DoristoLattice()
-speedwalk("" ,false, 0.5)
+speedwalk("e,se,se" ,false, 0.5)
 end
 
 function DoristoLink()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,out,sw,sw,w" ,false, 0.5)
 end
+
+
+
+</script>
+			<eventHandlerList />
+		</Script>
+	</ScriptPackage>
+</MudletPackage>

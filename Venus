@@ -1,3 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<ScriptPackage>
+		<Script isActive="no" isFolder="no">
+			<name>tradesol</name>
+			<packageName></packageName>
+			<script>
+-------------------------------------------------
+--         Put your Lua functions here.        --
+--                                             --
+-- Note that you can also use external Scripts --
+-------------------------------------------------
 --Venus
 
 function VenustoRheat()
@@ -71,3 +84,11 @@ end
 function VenustoLink()
 speedwalk("" ,false, 0.5)
 end
+
+
+
+</script>
+			<eventHandlerList />
+		</Script>
+	</ScriptPackage>
+</MudletPackage>

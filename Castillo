@@ -1,73 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<ScriptPackage>
+		<Script isActive="no" isFolder="no">
+			<name>tradesol</name>
+			<packageName></packageName>
+			<script>
+-------------------------------------------------
+--         Put your Lua functions here.        --
+--                                             --
+-- Note that you can also use external Scripts --
+-------------------------------------------------
+
 --Castillo
 
 function CastillotoRheat()
-speedwalk("" ,false, 0.5)
+speedwalk("w,w,w,w" ,false, 0.5)
 end
 
 function CastillotoSaturn()
-speedwalk("" ,false, 0.5)
+speedwalk("w,w,nw" ,false, 0.5)
 end
 
 function CastillotoTitan()
-speedwalk("" ,false, 0.5)
+speedwalk("w,nw" ,false, 0.5)
 end
 
 function CastillotoPhobos()
-speedwalk("" ,false, 0.5)
+speedwalk("se,e" ,false, 0.5)
 end
 
 function CastillotoMars()
-speedwalk("" ,false, 0.5)
+speedwalk("s,se" ,false, 0.5)
 end
 
 function CastillotoSumatra()
-speedwalk("" ,false, 0.5)
+speedwalk("s,sw" ,false, 0.5)
 end
 
 function CastillotoEarth()
-speedwalk("" ,false, 0.5)
+speedwalk("se,se,se" ,false, 0.5)
 end
 
 function CastillotoMagellan()
-speedwalk("" ,false, 0.5)
+speedwalk("s,s,se,se" ,false, 0.5)
 end
 
 function CastillotoMoon()
-speedwalk("" ,false, 0.5)
+speedwalk("se,se,se,se" ,false, 0.5)
 end
 
 function CastillotoVenus()
-speedwalk("" ,false, 0.5)
+speedwalk("s,s,s,s,s" ,false, 0.5)
 end
 
 function CastillotoParadise()
-speedwalk("" ,false, 0.5)
+speedwalk("s,s,s,s,s,sw" ,false, 0.5)
 end
 
 function CastillotoMercury()
-speedwalk("" ,false, 0.5)
+speedwalk("s,s,s,se,se,se" ,false, 0.5)
 end
 
 function CastillotoPearl()
-speedwalk("" ,false, 0.5)
+speedwalk("s,s,s,se,se,se,se,s" ,false, 0.5)
 end
 
 function CastillotoBrass()
-speedwalk("" ,false, 0.5)
+speedwalk("sw,w,in,nw,w" ,false, 0.5)
 end
 
 function CastillotoSilk()
-speedwalk("" ,false, 0.5)
+speedwalk("sw,w,in,ne,n" ,false, 0.5)
 end
 
 function CastillotoDoris()
-speedwalk("" ,false, 0.5)
+speedwalk("sw,w,in,sw" ,false, 0.5)
 end
 
 function CastillotoLattice()
-speedwalk("" ,false, 0.5)
+speedwalk("sw,w,in,se,s,se" ,false, 0.5)
 end
 
 function CastillotoLink()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,w,w,w,w" ,false, 0.5)
 end
+
+
+
+</script>
+			<eventHandlerList />
+		</Script>
+	</ScriptPackage>
+</MudletPackage>
