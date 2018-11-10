@@ -1,67 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<ScriptPackage>
+		<Script isActive="no" isFolder="no">
+			<name>tradesol</name>
+			<packageName></packageName>
+			<script>
+-------------------------------------------------
+--         Put your Lua functions here.        --
+--                                             --
+-- Note that you can also use external Scripts --
+-------------------------------------------------
+
 --Mercury
 
 function MercurytoRheat()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw,nw,nw,nw,w" ,false, 0.5)
 end
 
 function MercurytoSaturn()
-speedwalk("" ,false, 0.5)
+speedwalk("n,nw,nw,nw,nw,nw,nw" ,false, 0.5)
 end
 
 function MercurytoTitan()
-speedwalk("" ,false, 0.5)
+speedwalk("n,n,nw,nw,nw,nw,nw" ,false, 0.5)
 end
 
 function MercurytoCastillo()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw,n,n,n" ,false, 0.5)
 end
 
 function MercurytoPhobos()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,n,n,n,n," ,false, 0.5)
 end
 
 function MercurytoMars()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,n,n" ,false, 0.5)
 end
 
 function MercurytoSumatra()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw,nw" ,false, 0.5)
 end
 
 function MercurytoEarth()
-speedwalk("" ,false, 0.5)
+speedwalk("n,n,n" ,false, 0.5)
 end
 
 function MercurytoMagellan()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,n" ,false, 0.5)
 end
 
 function MercurytoMoon()
-speedwalk("" ,false, 0.5)
+speedwalk("ne,n" ,false, 0.5)
 end
 
 function MercurytoVenus()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,w,w" ,false, 0.5)
 end
 
 function MercurytoParadise()
-speedwalk("" ,false, 0.5)
+speedwalk("w,w,w,w" ,false, 0.5)
 end
 
 function MercurytoPearl()
-speedwalk("" ,false, 0.5)
+speedwalk("se,s" ,false, 0.5)
 end
 
 function MercurytoBrass()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw,nw,nw,in,nw,w" ,false, 0.5)
 end
 
 function MercurytoSilk()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw,nw,nw,in,ne,n" ,false, 0.5)
 end
 
 function MercurytoDoris()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw,nw,nw,in,sw" ,false, 0.5)
 end
 
 function MercurytoLattice()
@@ -69,5 +83,12 @@ speedwalk("" ,false, 0.5)
 end
 
 function MercurytoLink()
-speedwalk("" ,false, 0.5)
+speedwalk("nw,nw,nw,nw,nw,nw,nw,w" ,false, 0.5)
 end
+
+
+</script>
+			<eventHandlerList />
+		</Script>
+	</ScriptPackage>
+</MudletPackage>
