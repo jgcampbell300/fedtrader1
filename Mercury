@@ -1,0 +1,73 @@
+--Mercury
+
+function MercurytoRheat()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoSaturn()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoTitan()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoCastillo()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoPhobos()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoMars()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoSumatra()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoEarth()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoMagellan()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoMoon()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoVenus()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoParadise()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoPearl()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoBrass()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoSilk()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoDoris()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoLattice()
+speedwalk("" ,false, 0.5)
+end
+
+function MercurytoLink()
+speedwalk("" ,false, 0.5)
+end
